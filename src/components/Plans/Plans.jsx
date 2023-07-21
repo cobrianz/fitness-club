@@ -4,7 +4,7 @@ import { plansData } from '../../data/plansData'
 import whiteTick from '../../assets/whiteTick.png'
 const Plans = () => {
   return (
-    <div className="plans__container">
+    <div className="plans__container" id='plans'>
       <div className="blur plans__blur-1"></div>
       <div className="blur plans__blur-2"></div>
       <div className="programs-header" style={{gap: '2rem'}}>

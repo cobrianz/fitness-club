@@ -63,4 +63,8 @@
     .right__j{
         padding: 2rem;
     }
+    .btn__j{
+        font-size: small;
+        width: 3rem;
+    }
 }
